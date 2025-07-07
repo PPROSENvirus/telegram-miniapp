@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: telegram-miniapp
+    env: php
+    buildCommand: ""
+    startCommand: ""
+    plan: free
